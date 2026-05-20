@@ -137,9 +137,10 @@ scripts/checkpoints/
 # Datasets
 datasets/
 data/
-HGF/
+
 
 # OS Files
 .DS_Store
 Thumbs.db
 
+HGF/

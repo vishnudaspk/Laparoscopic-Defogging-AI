@@ -28,6 +28,22 @@ An advanced, AI-powered pipeline designed to remove fog and surgical smoke from 
 
 ---
 
+## 📊 Evaluation Results
+
+The model has been rigorously evaluated on a paired dataset of 25 laparoscopy images. It delivers exceptional reconstruction quality while maintaining real-time performance.
+
+| Metric | Average Value | Purpose |
+|---|---|---|
+| **PSNR** | 37.05 dB | High reconstruction quality |
+| **SSIM** | 0.9697 | Extremely high structural preservation |
+| **Inference Time** | 0.0204 s | High-speed processing |
+| **FPS** | 85.1 FPS | Real-time surgical viability |
+| **Peak GPU Memory** | 235.6 MB | Efficient hardware usage |
+
+*(Note: Hardware metrics were recorded on an NVIDIA RTX 4060 GPU. Detailed per-image results are available in the `Evaluation/` folder.)*
+
+---
+
 ## Installation
 
 1. **Clone the repository**
