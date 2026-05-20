@@ -2,8 +2,6 @@
 
 An advanced, AI-powered pipeline designed to remove fog and surgical smoke from laparoscopy images in real-time. This project leverages a **Pix2Pix UNet-256 Generator** combined with a **Dark Channel Prior** and guided filtering to produce pristine, high-clarity surgical visuals.
 
-![Web Interface](sample/1.png)
-
 ## ✨ Features
 - **State-of-the-art Defogging**: Uses a trained Pix2Pix model coupled with a physical scattering model (Dark Channel Prior).
 - **Rich Web UI**: A beautiful, drag-and-drop web interface built with Flask, HTML, CSS, and JS.
