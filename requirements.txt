@@ -1,0 +1,13 @@
+# Laparoscopy Defogging AI - Requirements
+# Install via: pip install -r requirements.txt
+
+numpy>=1.24.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+matplotlib>=3.7.0
+scipy>=1.11.0
+Flask>=3.0.0
+flask-cors>=4.0.0
+torch>=2.5.1
+torchvision>=0.20.1
+
