@@ -48,7 +48,7 @@ The model has been rigorously evaluated on a paired dataset of 25 laparoscopy im
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/vishnudaspk/Laparoscopic-Defogging-AI.git
    cd Laparoscopy
    ```
 
